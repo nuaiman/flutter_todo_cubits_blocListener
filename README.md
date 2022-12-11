@@ -1,16 +1,7 @@
-# flutter_todo_cubit_bloclistener
+# flutter_todo_cubit_blocListener
 
-A new Flutter project.
+This project is a cubit and streamsubscription implementation of a todo app made with Flutter.
 
-## Getting Started
+![Screenshot_1670756410](https://user-images.githubusercontent.com/76113072/206899919-ba4710f3-2925-4e85-9a52-88497863e2e4.png)
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
